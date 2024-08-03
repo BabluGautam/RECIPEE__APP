@@ -1,0 +1,12 @@
+/* #my-box{
+    margin-left: 30px; */
+/* 
+#my-box{
+    margin-right: 30px;
+} */
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
